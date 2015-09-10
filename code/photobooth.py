@@ -28,6 +28,6 @@ def where_am_i():
             time.sleep(5)
         
 mc.postToChat("Find the Photo-Booth")
-where_am_I()
+where_am_I()bdgf
     
 
